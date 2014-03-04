@@ -156,7 +156,7 @@ App::FakeCDN - fake CDN server emulator
 
 =head1 DESCRIPTION
 
-App::FakeCDN launches fake cdn server emulator.
+App::FakeCDN launches fake CDN server emulator.
 
 B<THE SOFTWARE IS ALPHA QUALITY. API MAY CHANGE WITHOUT NOTICE.>
 
